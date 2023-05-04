@@ -1,4 +1,3 @@
-
 logo = """
  a88888b.          .8888b .8888b                                                   dP       oo                   
 d8'   `88          88   " 88   "                                                   88                            
@@ -28,7 +27,7 @@ out_resource = """
                                                                 
 """
 
-not_enough_resources_logo ="""
+not_enough_resources_logo = """
   _  _     _                            _                                         
  | \| |___| |_   ___ _ _  ___ _  _ __ _| |_    _ _ ___ ___ ___ _  _ _ _ __ ___ ___
  | .` / _ \  _| / -_) ' \/ _ \ || / _` | ' \  | '_/ -_|_-</ _ \ || | '_/ _/ -_|_-<
@@ -36,7 +35,7 @@ not_enough_resources_logo ="""
                                   |___/                                           
 """
 
-payment_logo ="""
+payment_logo = """
   ___                         _   
  | _ \__ _ _  _ _ __  ___ _ _| |_ 
  |  _/ _` | || | '  \/ -_) ' \  _|
@@ -44,7 +43,7 @@ payment_logo ="""
            |__/                   
 """
 
-final_coffee ="""
+final_coffee = """
         ..
       ..  ..
             ..
