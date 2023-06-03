@@ -1,1 +1,1 @@
-resources = {'water': 1000, 'milk': 500, 'coffee': 300, 'money': 0.00}
+resources = {'water': 950, 'milk': 500, 'coffee': 282, 'money': 1.5}
